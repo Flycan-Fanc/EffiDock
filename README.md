@@ -138,6 +138,7 @@ EffiDock 将采用 **简约、清爽、克制** 的界面风格：
 - 强调产品感而不是装饰感
 
 ---
+
 ### 样式原型
 ![image-style](/Style_prototype.png)
 
