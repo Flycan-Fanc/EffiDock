@@ -1,4 +1,4 @@
-# EffiDock
+# EffiDock（建设中...）
 
 **EffiDock** 是一个支持模块安装 / 卸载的 AI 增强型生产力工作台。  
 用户可以按需启用或关闭不同工具模块，逐步搭建属于自己的效率系统，例如 Todo、日记、灵感、财务、项目管理等。
@@ -6,6 +6,9 @@
 > 一个轻量、清爽、可扩展的生产力平台，面向个人与团队场景。
 
 ---
+
+- 前端仓库：https://github.com/Flycan-Fanc/EffiDock_frontend.git
+- 后端仓库：https://github.com/Flycan-Fanc/EffiDock_backend.git
 
 ## ✨ 项目愿景
 
